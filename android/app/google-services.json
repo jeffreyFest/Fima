@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "562603775398",
+    "project_id": "fima-funds",
+    "storage_bucket": "fima-funds.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:562603775398:android:79c145ce5845858737ab67",
+        "android_client_info": {
+          "package_name": "com.example.fima"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "562603775398-k75lfuuparoed0dsurcrtgn7re34ek51.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVx4i5fO-sYz1huAqUoheMVKyLTMm43Vk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "562603775398-k75lfuuparoed0dsurcrtgn7re34ek51.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
